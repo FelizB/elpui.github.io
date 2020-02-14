@@ -183,7 +183,7 @@ nav a.active, nav a:hover, nav i:hover{
 
 label.logo{
 	float: left;
-	color: cyan;
+	color: #00A9FF;
 	font-size: 25px;
 	line-height: 20px;
 	padding: 0 50px;
@@ -221,7 +221,7 @@ footer a:hover{
 	color: white;
 }
 .ft-legal{
-	background-color: #333;
+
 	margin-top: 15px;
 }
 .ft-legal-list{
@@ -235,7 +235,7 @@ footer a:hover{
 .ft-legal-list a{
 	padding: 2px 5px;
 	border-radius: 20px;
-	color: white;
+	color: #FF8516;
 }
 .ft-legal .right{
 	float: right;
@@ -386,4 +386,3 @@ span i{
 		display: inline-block;
 		margin: 100px auto;
 	}
-
